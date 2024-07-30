@@ -1,0 +1,26 @@
+
+.container {
+    background-color: transparent!important;
+}
+
+table.wp-list-table {
+    margin-top: 15px;
+}
+
+tr.task-done td {
+    background: #fbe6e8;
+    border-top: 1px solid #fff;
+}
+
+.header .btn.btn-primary, .header h1 {
+    margin-left: 15px;
+}
+.header form input{
+    height: calc(1.5em + .75rem + 2px);
+}
+.header form {
+    display: flex;flex-direction: row;align-items: center;float: right; margin-left: 15px;
+}
+.header {
+    display: flex;flex-direction: row;align-items: center;
+}
